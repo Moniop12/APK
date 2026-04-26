@@ -6,7 +6,7 @@
     "version": "1.0",
     "package_name": "com.androidgen.app",
     "apk_url": "https://github.com/Moniop12/APK/releases/download/v.1.0.0/DroidForge.apk",
-    "icon_url": "https://raw.githubusercontent.com/Moniop12/android-c-Compiler/main/icons/droidforge.png",
+    "icon_url": "https://raw.githubusercontent.com/Moniop12/APK/main/icons/droidforge.png",
     "category": "Tools",
     "developer": "mondev",
     "size": "",
