@@ -11,11 +11,9 @@
     "developer": "mondev",
     "size": "",
     "changelog": "",
-    "tags": [
-      "dev"
-    ],
+    "tags": ["dev"],
     "screenshots": []
-  }
+  },
   {
     "name": "C-Compiler Lite.apk",
     "short_desc": "Compiler",
@@ -28,9 +26,7 @@
     "developer": "mondev",
     "size": "7,26M",
     "changelog": "",
-    "tags": [
-      "dev"
-    ],
+    "tags": ["dev"],
     "screenshots": []
   }
 ]
