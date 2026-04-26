@@ -3,7 +3,7 @@
     "name": "DroidForge",
     "short_desc": "Android project generator",
     "desc": "DroidForge — Android Project Scaffolder Pick your modules, choose Java or Kotlin, and get a complete Android Studio project as a ZIP. RecyclerView, Retrofit, Room, ViewModel, Navigation, Hilt, Auto-generated GitHub Actions, Ready to open, build, and run. Spend time on features, not boilerplate",
-    "version": "1.0",
+    "version": "3.0",
     "package_name": "com.androidgen.app",
     "apk_url": "https://github.com/Moniop12/APK/releases/download/v.1.0.0/DroidForge.apk",
     "icon_url": "https://raw.githubusercontent.com/Moniop12/APK/main/icons/droidforge.png",
