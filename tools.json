@@ -16,6 +16,8 @@
     "force_update": false,
     "type": "apk"
   }
+  ]
+  [
   {
     "type": "apk",
     "name": "C-Compiler Lite",
