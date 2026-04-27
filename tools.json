@@ -34,5 +34,23 @@
     "screenshots": [],
     "package_name": "com.ccompile.lite",
     "force_update": false
+  },
+  {
+    "type": "link",
+    "name": "ML+",
+    "short_desc": "Injector",
+    "desc": "Root only injector mlbb.",
+    "version": "1.0",
+    "apk_url": "https://shrtslug.biz/8Pv2Q",
+    "icon_url": "",
+    "category": "Links",
+    "developer": "mondev",
+    "size": "",
+    "changelog": "",
+    "tags": [
+      "android"
+    ],
+    "screenshots": [],
+    "latest_version": "1.0"
   }
 ]
