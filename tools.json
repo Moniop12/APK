@@ -15,7 +15,8 @@
     "screenshots": [],
     "force_update": false,
     "type": "apk"
-
+),
+(
     "type": "apk",
     "name": "C-Compiler Lite",
     "short_desc": "Build C/C++ directly on Android",
